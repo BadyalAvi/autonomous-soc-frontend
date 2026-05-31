@@ -67,8 +67,8 @@ AI-Driven Security Operations — Anywhere. Anytime.
 
 | Platform | Status | Link |
 |---|---|---|
-| 🌐 Web Application | ![Live](https://img.shields.io/badge/status-live-22C55E?style=flat-square) | [[Insert Vercel URL →](https://autonomous-soc-frontend.vercel.app/)](#) |
-| 📱 Android APK | ![Available](https://img.shields.io/badge/status-available-3B82F6?style=flat-square) | [[Download via EAS →](https://expo.dev/accounts/badyalavi/projects/frontend/builds/ff9cba73-ca07-4c97-a3e0-0019d0519e7a)](#) |
+| 🌐 Web Application | ![Live](https://img.shields.io/badge/status-live-22C55E?style=flat-square) | [[Insert Vercel URL →](https://autonomous-soc-frontend.vercel.app/)](#(https://autonomous-soc-frontend.vercel.app/) |
+| 📱 Android APK | ![Available](https://img.shields.io/badge/status-available-3B82F6?style=flat-square) | [[Download via EAS →](https://expo.dev/accounts/badyalavi/projects/frontend/builds/ff9cba73-ca07-4c97-a3e0-0019d0519e7a)](#(https://expo.dev/accounts/badyalavi/projects/frontend/builds/ff9cba73-ca07-4c97-a3e0-0019d0519e7a)) |
 | 🍎 iOS | ![TestFlight](https://img.shields.io/badge/status-TestFlight-F59E0B?style=flat-square) | [TestFlight Beta →](#) |
 
 <br/>
